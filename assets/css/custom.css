@@ -1,1 +1,36 @@
-<!--COLORS 
+/*
+COLORS:
+
+#C9CAD9
+
+#D1D2F9
+
+#A3BCF9
+
+#7796CB
+
+#576490
+*/
+
+/*
+FONTS
+*/
+/* HEADER*/
+.dm-serif-text-regular {
+font-family: "DM Serif Text", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.dm-serif-text-regular-italic {
+font-family: "DM Serif Text", serif;
+font-weight: 400;
+font-style: italic;
+} 
+
+/*BODY*/
+.rubik-doodle-shadow-regular {
+font-family: "Rubik Doodle Shadow", system-ui;
+font-weight: 400;
+font-style: normal;
+}
